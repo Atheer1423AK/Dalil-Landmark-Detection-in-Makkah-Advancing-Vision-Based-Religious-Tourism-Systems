@@ -1,4 +1,4 @@
-# 🕋 Dalil: Landmark Detection in Makkah
+# 🕋 Dalil: A YOLOv11-Based Makkah Landmark Detection System with ALLaM-Powered Religious Tourism Interpretation
 
 Dalil is a computer vision system designed to detect and classify key religious landmarks in Makkah.  
 Using fine-tuned YOLOv11 models, it supports the development of vision-based tourism assistance and enhances the visitor experience through AI-powered landmark recognition.
